@@ -6,3 +6,11 @@ The system facilitates user authentication, enables airlines
 to add flights, allows passengers to book flights and view reservations, and ensures data
 persistence through file handling. It provides a simple and efficient interface for users to
 interact with the airline services.
+
+## Usage
+Go to Terminal
+Change Directory to where AirlineReservationProject.jar is present
+Run the command
+```bash
+java -jar ./AirlineReservationProject.jar
+```
